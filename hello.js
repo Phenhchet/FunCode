@@ -1,2 +1,2 @@
 console.log("Hello World fun code")
-console.log("Add new")
+console.log("Add news")
